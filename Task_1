@@ -1,0 +1,33 @@
+In this task i have to install kali linux in my PC.
+Steps are:
+To install Kali Linux in VirtualBox on a Windows host PC, you can follow these steps:
+
+1.)Download VirtualBox:
+      If you haven't already installed VirtualBox, you can download it from the official website: https://www.virtualbox.org/
+2.)Download Kali Linux:
+      Download the Kali Linux ISO image from the official website: https://www.kali.org/downloads/
+3.)Install VirtualBox:
+      Run the VirtualBox installer you downloaded in step 1 and follow the installation instructions.
+4.)Create a New Virtual Machine:
+    Open VirtualBox and click on the "New" button to create a new virtual machine.
+5.)Configure Virtual Machine Settings:
+
+     Name your virtual machine (e.g., "Kali Linux").
+     Select the "Linux" operating system and "Debian (64-bit)" as the version.
+     Allocate memory to the virtual machine. A minimum of 2 GB is recommended, but more is better if you have the resources.
+     Create a new virtual hard disk or use an existing one. Allocate at least 20 GB of space for the virtual hard disk.
+
+6.)Install Kali Linux:
+
+    Select your newly created virtual machine in VirtualBox and click "Start."
+    When prompted, select the Kali Linux ISO file you downloaded in step 2 as the bootable media.
+    Follow the Kali Linux installer prompts to set your language, location, keyboard layout, and create a root password.
+    When you reach the disk partitioning step, you can choose the guided method or manually partition the disk. If you're unsure, the guided method is usually sufficient.
+    Wait for the installation to complete.
+7.)Configure Kali Linux:
+   After installation, Kali Linux will prompt you to configure network mirrors. You can use the default mirrors or select ones geographically closer to you.
+   Update and upgrade Kali Linux by opening a terminal and running:
+     sudo apt update
+     sudo apt upgrade
+8.)Restart the pc
+
