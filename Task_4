@@ -1,0 +1,70 @@
+Here is a password policy for XY Company.
+
+I. Purpose
+
+The goal of this password policy is to define standards and procedures for developing and managing secure passwords
+at XYZ IT Company in order to improve data security and safeguard sensitive information.
+
+II. Scope
+
+All staff members, independent contractors, and visitors to the XYZ IT Company's information systems are subject to the terms of this policy.
+
+III. Password Creation Guidelines
+
+  1.)Password Complexity:
+    Passwords must contain a minimum of 12 characters.
+    Uppercase letters (A-Z) and numbers are required for passwords.
+    (A–Z) lowercase letters
+    Numbers 0 to 9
+    Special characters, such as @, #, $,%, &,!, etc.
+    Example of a password is P@$$w0rd2023
+
+  2.)Avoid Common Words:
+    Passwords shouldn't contain information that is simple to decipher, including popular words, phrases, or patterns.
+    Don't use details like names, dates of birth, or phone numbers.
+    Example of a poor password: Company123
+
+  3.)Unique Passwords:
+    Each account or system must have a unique password. Reusing passwords across multiple accounts is strictly prohibited.
+    Example: Using the same password for both your email and network login is not allowed.
+
+  4.)Regular Updates:
+    Every 90 days, passwords must be reset.
+    None of the previous ten passwords may be used again.
+
+  5.)Two-Factor Authentication (2FA):
+    Encourage the use of 2FA wherever possible to enhance account security.
+
+IV. Password Management
+
+  1.)Password Storage:
+    Passwords shouldn't be recorded verbally or kept in unsecure electronic storage.
+    To save and manage passwords securely, use a trustworthy password manager.
+
+  2.)Password Sharing:
+    Never disclose your password to anyone, not even your coworkers or the IT staff.
+    Someone should have their own authorized account if they need access to a system.
+
+  3.)Account Lockout:
+    A user's account will be temporarily suspended for 30 minutes after six failed login attempts.
+
+V. Reporting Security Incidents
+
+  1.)Password Security Incidents:
+  Employees are responsible for immediately informing the IT department of any suspected or verified security incidents involving passwords.
+
+VI. Enforcement and Consequences
+  1.)Compliance:
+  This policy must be followed by all workers and anybody with access to corporate systems.
+
+  2.)Consequences:
+  Discipline up to and including termination of employment or contract may be applied if this policy is not followed.
+
+VII. Review and Revision
+
+  Policy Review:
+  This policy will be reviewed and updated as needed at least annually or more frequently if security risks change.
+
+The XY IT Company understands how crucial strong passwords are to protecting our systems and critical information. 
+A secure IT environment must be maintained by adherence to this policy.
+
